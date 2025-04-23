@@ -1,49 +1,16 @@
-<h1 align="left">Bem Vindo!👋</h1>
+## Hey! My name is André Avelino Freitas de Oliveira! 🖐️
 
-###
+![André GitHub stats](https://github-readme-stats.vercel.app/api?username=avelinoandre&show_icons=true&theme=radical&cache_seconds=1800)
 
-<p align="left">Me chamo André Avelino Freitas de Oliveira, estudante de Ciência da Computação no Cesar School.</p>
+📚 - Aspiring Computer Scientist at @CESAR School, currently proficient in the following technologies..
 
-###
-
-<h2 align="left">Sobre Mim:</h2>
-
-###
-
-<p align="left">✨ 1° Período<br>📚 Atualmente estudando Java<br>🎲  Expêriencia com Python, C e C++</p>
-
-###
-
-<h2 align="left">IDEs que utilizo:</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
+  
+## 📅 Contacts
+ 
+<div> 
+<!--   <a href="https://www.linkedin.com/in/carlos-eduardo-esp%C3%B3sito-35227530a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/carlosesposito22" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
+  <a href = "mailto:avelinoandre02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-###
-
-<h2 align="left">Onde me encontrar:</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/andr%C3%A9-avelino-821019321/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/avelinoandre_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avelinoandre&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avelinoandre&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
